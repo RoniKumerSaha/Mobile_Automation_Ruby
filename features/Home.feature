@@ -25,7 +25,7 @@ Feature: Tests for Home screen functionality
       |3     |91.44     |
       |9     |274.32    |
       |1011  |30 815.28 |
-
+@tk
   Scenario: User able to add current conversion to Favorites list
     Then I press on Add to Favorites icon
     When I press on Menu icon

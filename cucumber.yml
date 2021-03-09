@@ -1,1 +1,2 @@
+home: --tags @home --format html --out report.html --format pretty
 default: --publish-quiet
