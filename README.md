@@ -15,3 +15,8 @@ cucumber
 ```
 cucumber -t @tagname
 ```
+
+#### To run test using profile:
+```
+cucumber -t profileName
+```
